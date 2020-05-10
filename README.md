@@ -1,4 +1,4 @@
-# TerhisHesapla
+# Terhis Hesaplama Programı
 2020 Yeni Askerlik sistemine göre terhis hesaplama
 
 Türk Silahlı Kuvvetlerinin 6 aylık yeni askerlik sistemine göre, Terhis hesaplama programıdır.
@@ -12,3 +12,5 @@ Türk Silahlı Kuvvetlerinin 6 aylık yeni askerlik sistemine göre, Terhis hesa
 
 Ayların 30 - 31 - 28 gün olma durumu dikkate alınmıştır.
 
+
+Geç katılış, ceza ,rapor vb istenen verler yok ise '0' giriniz
