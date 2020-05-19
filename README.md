@@ -28,13 +28,15 @@ For 6 months army days.
 
 Whatfor : Calculate to when finish your army days (for Turkish Armed Forces)
 
-Usage : * Sevk Tarihi is "Start day of army" (input like day.month.year )
-        * Geç Katılış is "How many day late of start day"
-        * Ceza is "Punishment"
-        * Rapor is "Health report"
-        * Kullanılan izin is "Used Permit (holiday)"
-        * Erken Terhis is "early discharge (like gift)"
-        * Yol is "day for arrange to home (if u enter 1 "go house for 1 day. Military day 1 day finish early")
+Usage : 
+
+* Sevk Tarihi is "Start day of army" (input like day.month.year )
+* Geç Katılış is "How many day late of start day"
+* Ceza is "Punishment"
+* Rapor is "Health report"
+* Kullanılan izin is "Used Permit (holiday)"
+* Erken Terhis is "early discharge (like gift)"
+* Yol is "day for arrange to home (if u enter 1 "go house for 1 day. Military day 1 day finish early")
         
         
         
