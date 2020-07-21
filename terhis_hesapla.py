@@ -8,22 +8,10 @@
 import datetime
 import datedelta
 
-mesaj = ' Terhis Hesaplama '
-mesaj2 = ' Tarik VARDAR '
-mesaj3 = ' tarikvardar@gmail.com '
+# Yerel import
+import info
 
-mesaj= mesaj.center(40, '*')
-mesaj2 = mesaj2.center(40, '*')
-mesaj3 = mesaj3.center(40, '*')
-
-print()
-print('*' * 40)
-print(mesaj)
-print('*' * 40)
-print(mesaj2)
-print(mesaj3)
-print('*' * 40)
-print()
+info.tanıt(' Terhis Hesaplama ')
 
 #Bir sevk tarihi bilgisi girilmesini istiyoruz
 tarih0 = input('Sevk Tarihini (Gun.Ay.Yıl) Giriniz : ')
