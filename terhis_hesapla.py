@@ -1,8 +1,8 @@
 # Türk Silahlı Kuvvetleri Terhis Hesaplama Programı (2020)
 # 6 Aylık yeni askerlik sistemine göre kodlanmıştır
-# 
-# Tarık VARDAR 
-# tarikvardar@gmail.com 
+#
+# Tarık VARDAR
+# tarikvardar@gmail.com
 
 
 import datetime
@@ -125,9 +125,14 @@ sevk2 = sevk
 
 # Bulduğumuz Terhis Tarihini yazdıralım
 print()
-print('Terhis Olacağınız Tarih :')
+print('TMI Terhis Mahiyetinde İzin Tarihi :')
 print(sevk.day, sevk.month, sevk.year)
 print()
+print()
+print('Terhis Tarihi :')
+print(sevk.day + kisalt, sevk.month, sevk.year)
+print()
+
 
 #Yukarıda yaptığımız gün hesabını şimdi işleme döküyoruz.
 toplam_sure = sevk2 - sevk1
@@ -139,3 +144,6 @@ if kalan <=0:
     print(f'Terhis Oldunuz. Sivil Hayatta Başarılar !!!')
 else:
     print(f'Terhise {kalan} gün kaldı')
+
+
+
