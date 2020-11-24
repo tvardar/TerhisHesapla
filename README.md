@@ -1,5 +1,10 @@
-# Terhis (Şafak) Hesaplama Programı
+# Terhis (Şafak) Hesaplama Programı (Güncellendi 24.11.2020)
+
 2020 Yeni Askerlik sistemine göre terhis (şafak) hesaplama
+
+**TMİ Yani Terhis Mahiyetinde İzin  Sizin askeriyenin kapısından çıkıp evinize gideceğiniz gündür. (Düzenlendi)
+
+**Terhis Tarihi ise artık askeri personel olmayacağınız SİVİL olacağınız tarihtir. (Eklendi)
 
 Türk Silahlı Kuvvetlerinin 6 aylık yeni askerlik sistemine göre, Terhis hesaplama programıdır.
 
